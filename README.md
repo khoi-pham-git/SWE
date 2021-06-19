@@ -1,6 +1,6 @@
 ## Welcome to FrontEnd repository. 
 
-### _You will find in this repo the following stuff: This repo has some basic projects about Java Desktop.
+### _You will find in this repo the following stuff: This repo has a UC and PowerPoint present regarding to build a commercial floor website for spa.
 
 ## Have fun with my code and feel free to give me any comments
 
